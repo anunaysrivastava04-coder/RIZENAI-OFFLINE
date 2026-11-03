@@ -1,0 +1,12 @@
+{
+  "app_name": "RIZEN OFFLINE AI",
+  "model_name": "Qwen3-8B",
+  "model_path": "models/Qwen3-8B-Q4_K_M.gguf",
+  "host": "127.0.0.1",
+  "port": 7860,
+  "context_size": 4096,
+  "thinking_tokens": 1536,
+  "threads": 0,
+  "gpu_layers": 0,
+  "open_browser": true
+}

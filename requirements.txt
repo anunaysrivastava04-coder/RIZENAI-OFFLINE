@@ -1,0 +1,7 @@
+# RIZEN OFFLINE AI - Python packages
+# Prebuilt CPU wheels for the Qwen engine (no compiler needed on Windows and most Macs).
+--extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
+--prefer-binary
+
+flask>=3.0,<4
+llama-cpp-python>=0.3.0
